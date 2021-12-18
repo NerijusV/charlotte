@@ -1,0 +1,5 @@
+GET http://localhost:5138/api/categories
+
+###
+
+GET http://localhost:5138/api/categories/5
