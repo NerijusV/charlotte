@@ -1,4 +1,4 @@
-namespace charlotte;
+namespace Charlotte;
 
 public class WeatherForecast
 {

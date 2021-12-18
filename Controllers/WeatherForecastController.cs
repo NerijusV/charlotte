@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace charlotte.Controllers;
+namespace Charlotte.Controllers;
 
 [Authorize]
 [ApiController]

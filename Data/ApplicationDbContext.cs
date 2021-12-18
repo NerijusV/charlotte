@@ -4,7 +4,7 @@ using Microsoft.Extensions.Options;
 using Duende.IdentityServer.EntityFramework.Options;
 using charlotte.Models;
 
-namespace charlotte.Data;
+namespace Charlotte.Data;
 
 public class ApplicationDbContext : ApiAuthorizationDbContext<ApplicationUser>
 {
