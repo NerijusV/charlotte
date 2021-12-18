@@ -2,8 +2,8 @@ using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI;
 using Microsoft.EntityFrameworkCore;
-using charlotte.Data;
-using charlotte.Models;
+using Charlotte.Data;
+using Charlotte.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
